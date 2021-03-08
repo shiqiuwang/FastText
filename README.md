@@ -1,2 +1,2 @@
 # FastText
-FastText model implemented by pytorch
+FastText model implemented by pytorch,the code in master branches
